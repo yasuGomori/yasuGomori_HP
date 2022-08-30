@@ -1,0 +1,11 @@
+div{
+  background-color: rgb(82, 122, 122);
+  height: 1000px;
+}
+
+@media screen and (min-width : 600px){
+  div{
+    background-color: rgb(242, 122, 122);
+    height: 1000px;
+  }
+}
